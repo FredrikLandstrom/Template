@@ -9,6 +9,9 @@ Node.js (Node+Exrepp)
 or
 SLIM (PHP)
 
+## Folder structure
+/api
+
 ##Other components
 
 ## Contributing guidelines
