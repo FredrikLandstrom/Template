@@ -4,7 +4,7 @@ Template project
 ##Frontend
 Angular
 
-##Backend
+##Backend (API)
 Node.js (Node+Exrepp)
 or
 SLIM (PHP)
